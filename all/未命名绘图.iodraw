@@ -459,6 +459,11 @@
             <mxPoint x="190" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-62" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMnuCrPKX2Ux9K8R0CJY-60">
+          <mxGeometry x="0.0505" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-17" value="校验是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="69" y="1080" width="144" height="70" as="geometry" />
         </mxCell>
