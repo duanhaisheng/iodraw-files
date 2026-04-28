@@ -130,7 +130,7 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-191" value="暂无数据提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="493" y="1082.47" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-192" value="关闭程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-192" value="关闭程序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622" y="870" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-193" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-176" target="RMnuCrPKX2Ux9K8R0CJY-177">
