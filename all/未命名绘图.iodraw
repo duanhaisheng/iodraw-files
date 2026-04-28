@@ -112,7 +112,7 @@
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-192">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="894" as="targetPoint" />
+            <mxPoint x="770" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-192" value="关闭程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
