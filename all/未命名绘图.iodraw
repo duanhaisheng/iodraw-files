@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-181" value="弹窗提示+刷新验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="590" width="212" height="48" as="geometry" />
+          <mxGeometry x="50" y="548.47" width="212" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-182" target="RMnuCrPKX2Ux9K8R0CJY-183">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-182" value="进入登录成功页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="287" y="590" width="188" height="48" as="geometry" />
+          <mxGeometry x="287" y="548.47" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-183" value="展示实时时钟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="156" height="48" as="geometry" />
