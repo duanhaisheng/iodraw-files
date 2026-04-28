@@ -65,7 +65,7 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-18" value="显示账号+密码信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="150" y="1220" width="196" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-19" value="错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-19" value="错误" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-23" y="1220" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-20" value="打开密码找回弹窗" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
