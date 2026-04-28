@@ -582,28 +582,36 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-46" value="合法" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-25" target="RMnuCrPKX2Ux9K8R0CJY-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1124" y="1261" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-26" target="RMnuCrPKX2Ux9K8R0CJY-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-48" value="不合法" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1.01;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-25" target="RMnuCrPKX2Ux9K8R0CJY-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1279" y="1261" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-51" value="点击退出" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-14" target="RMnuCrPKX2Ux9K8R0CJY-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1355" y="1280" as="targetPoint" />
+            <mxPoint x="1248" y="1210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-75" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMnuCrPKX2Ux9K8R0CJY-74">
+          <mxGeometry x="0.004" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="1280" as="targetPoint" />
+            <mxPoint x="1248" y="1210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-77" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMnuCrPKX2Ux9K8R0CJY-76">
+          <mxGeometry x="-0.1368" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
