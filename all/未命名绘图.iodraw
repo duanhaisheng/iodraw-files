@@ -19,7 +19,7 @@
           <mxGeometry x="459" y="239" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-179" value="输入账号+密码+验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="338" width="221" height="48" as="geometry" />
+          <mxGeometry x="120" y="340" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-180" value="信息校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="29" y="458" width="112" height="62" as="geometry" />
