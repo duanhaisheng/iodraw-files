@@ -16,7 +16,7 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-247" value="系统启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-248" value="系统启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-248" value="进入图书浏览界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-249" value="密码找回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
