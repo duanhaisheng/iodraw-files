@@ -16,6 +16,9 @@
         <mxCell id="L1JrjwH0KJIS886fdYjZ-102" value="隐藏冗余控件" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="436" y="145" width="126" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="L1JrjwH0KJIS886fdYjZ-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1JrjwH0KJIS886fdYjZ-103" target="L1JrjwH0KJIS886fdYjZ-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L1JrjwH0KJIS886fdYjZ-103" value="统一程序启动入口" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="612" y="145" width="158" height="48" as="geometry" />
         </mxCell>
@@ -425,11 +428,14 @@
         <mxCell id="L1JrjwH0KJIS886fdYjZ-188" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="496" y="52.5" as="sourcePoint" />
-            <mxPoint x="590" y="52.5" as="targetPoint" />
+            <mxPoint x="660" y="53" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="52.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L1JrjwH0KJIS886fdYjZ-189" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="681" y="31" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
