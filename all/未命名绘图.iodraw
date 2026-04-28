@@ -26,7 +26,7 @@
           <mxGeometry x="490" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-251" value="系统启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="410" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-252" value="登陆选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="120" height="40" as="geometry" />
