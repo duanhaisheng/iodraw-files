@@ -132,7 +132,7 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-190" value="展示筛选后图书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="271" y="1082.47" width="172" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-191">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-191" target="RMnuCrPKX2Ux9K8R0CJY-192">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="571" y="1150" as="targetPoint" />
           </mxGeometry>
