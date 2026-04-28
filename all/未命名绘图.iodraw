@@ -101,7 +101,7 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-188" value="顶部搜索框输入关键词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="352" y="870" width="220" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-189" value="搜索匹配" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-189" value="搜索是否匹配？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="405" y="969" width="112" height="61" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-190" value="展示筛选后图书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
