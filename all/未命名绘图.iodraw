@@ -511,6 +511,11 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-25" target="RMnuCrPKX2Ux9K8R0CJY-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1156" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-25" value="信息是否合法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1078" y="1128" width="156" height="52" as="geometry" />
         </mxCell>
