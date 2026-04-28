@@ -459,7 +459,8 @@
             <mxPoint x="230" y="1310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="141" y="1220" />
-              <mxPoint x="230" y="1220" />
+              <mxPoint x="260" y="1220" />
+              <mxPoint x="260" y="1320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -472,7 +473,7 @@
           <mxGeometry x="69" y="1080" width="144" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-18" value="显示账号+密码信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1320" width="196" height="48" as="geometry" />
+          <mxGeometry x="140" y="1410" width="196" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-19" value="错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-23" y="1320" width="92" height="48" as="geometry" />
