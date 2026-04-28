@@ -22,7 +22,7 @@
           <mxGeometry x="120" y="340" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-180" value="信息校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="131" y="458" width="112" height="62" as="geometry" />
+          <mxGeometry x="175" y="450" width="112" height="62" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-181" value="弹窗提示+刷新验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="50" y="620" width="212" height="48" as="geometry" />
