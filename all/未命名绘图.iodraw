@@ -446,7 +446,7 @@
           <mxGeometry x="570" y="533" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-14" value="用户选择操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="624" y="649" width="144" height="144" as="geometry" />
+          <mxGeometry x="624" y="649" width="144" height="61" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-15" value="读取本地txt用户数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="866" width="225" height="48" as="geometry" />
@@ -606,14 +606,6 @@
             <Array as="points">
               <mxPoint x="1393" y="1261" />
               <mxPoint x="1393" y="829" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.12;entryX=0.95;entryY=1;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-18" target="RMnuCrPKX2Ux9K8R0CJY-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="793" y="1261" />
-              <mxPoint x="793" y="829" />
             </Array>
           </mxGeometry>
         </mxCell>
