@@ -445,7 +445,7 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-13" value="加载主窗口、背景、输入框、所有按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="533" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-14" value="用户选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-14" value="用户选择操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="624" y="649" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-15" value="读取本地txt用户数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
