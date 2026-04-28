@@ -24,6 +24,11 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-179" value="输入账号+密码+验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="221" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-180">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.99999999999977" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-180" value="信息校验是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="450" width="180" height="62" as="geometry" />
         </mxCell>
@@ -76,20 +81,6 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-194" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-177" target="RMnuCrPKX2Ux9K8R0CJY-178">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-197" value="错误" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-180" target="RMnuCrPKX2Ux9K8R0CJY-181">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="85" y="607" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-199" value="正确" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-180" target="RMnuCrPKX2Ux9K8R0CJY-182">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="317" y="607" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-200" value="点击返回" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.06;entryX=0.85;entryY=1.01;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-182" target="RMnuCrPKX2Ux9K8R0CJY-178">
