@@ -24,8 +24,8 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-179" value="输入账号+密码+验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="221" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-180" value="信息校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="175" y="450" width="112" height="62" as="geometry" />
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-180" value="信息校验是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="180" height="62" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-181" target="RMnuCrPKX2Ux9K8R0CJY-179">
           <mxGeometry relative="1" as="geometry">
@@ -36,7 +36,7 @@
           <mxGeometry x="50" y="620" width="212" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-182" value="进入登录成功页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="287" y="643" width="188" height="48" as="geometry" />
+          <mxGeometry x="287" y="620" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-183" value="展示实时时钟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="234" y="764" width="156" height="48" as="geometry" />
