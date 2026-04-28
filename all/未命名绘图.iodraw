@@ -515,10 +515,10 @@
           <mxGeometry x="1078" y="1128" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-26" value="写人新用户到本地数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="981" y="1297" width="236" height="48" as="geometry" />
+          <mxGeometry x="940" y="1297" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-27" value="注册成功, 可一键登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="991.5" y="1370" width="215" height="48" as="geometry" />
+          <mxGeometry x="950.5" y="1370" width="215" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-28" value="格式错误提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1297" width="156" height="48" as="geometry" />
@@ -600,22 +600,6 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-51" value="点击退出" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-14" target="RMnuCrPKX2Ux9K8R0CJY-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="1297" as="targetPoint" />
-            <mxPoint x="1238" y="1227" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1156" y="1237" />
-              <mxPoint x="1100" y="1237" />
-              <mxPoint x="1100" y="1297" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-77" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMnuCrPKX2Ux9K8R0CJY-76">
-          <mxGeometry x="-0.1368" y="1" relative="1" as="geometry">
-            <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
