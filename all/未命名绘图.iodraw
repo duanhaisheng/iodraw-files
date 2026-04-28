@@ -470,7 +470,7 @@
           <mxGeometry x="312" y="964" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-22" value="错误提示, 自动刷新验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="395" y="1128" width="247" height="48" as="geometry" />
+          <mxGeometry x="314.5" y="1070" width="247" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-23" value="打开注册透明背景窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1046" y="866" width="220" height="48" as="geometry" />
