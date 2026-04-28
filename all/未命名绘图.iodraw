@@ -101,6 +101,11 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-188" value="顶部搜索框输入关键词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="352" y="870" width="220" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-189" target="RMnuCrPKX2Ux9K8R0CJY-191">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.82352941176464" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-189" value="搜索是否匹配？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="969" width="180" height="61" as="geometry" />
         </mxCell>
