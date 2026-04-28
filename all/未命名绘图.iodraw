@@ -505,7 +505,7 @@
           <mxGeometry x="1078" y="1128" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-26" value="写人新用户到本地数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1006" y="1297" width="236" height="48" as="geometry" />
+          <mxGeometry x="1005" y="1297" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-27" value="注册成功, 可一键登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1016" y="1395" width="215" height="48" as="geometry" />
