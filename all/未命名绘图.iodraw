@@ -81,7 +81,7 @@
           <mxGeometry x="131" y="983" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-187" value="表格滚动查看所有书籍" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="131" y="1114" width="220" height="48" as="geometry" />
+          <mxGeometry x="131" y="1050" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-188" value="顶部搜索框输入关键词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="401" y="983" width="220" height="48" as="geometry" />
