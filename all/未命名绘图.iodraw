@@ -454,14 +454,13 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-16" value="校验 用户名+密码+验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="973" width="242" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-17" target="RMnuCrPKX2Ux9K8R0CJY-18">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="1290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="141" y="1220" />
-              <mxPoint x="260" y="1220" />
-              <mxPoint x="260" y="1290" />
-              <mxPoint x="258" y="1290" />
+              <mxPoint x="191" y="1220" />
+              <mxPoint x="191" y="1290" />
             </Array>
           </mxGeometry>
         </mxCell>
