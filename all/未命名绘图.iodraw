@@ -445,10 +445,13 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-13" value="加载主窗口、背景、输入框、所有按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="533" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-14" target="RMnuCrPKX2Ux9K8R0CJY-23">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-14" target="RMnuCrPKX2Ux9K8R0CJY-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="696" y="780" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-14" target="RMnuCrPKX2Ux9K8R0CJY-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-14" value="用户选择操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="624" y="649" width="144" height="61" as="geometry" />
