@@ -13,6 +13,9 @@
         <mxCell id="L1JrjwH0KJIS886fdYjZ-101" value="主窗口布局微调" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="244" y="145" width="142" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1JrjwH0KJIS886fdYjZ-102" target="L1JrjwH0KJIS886fdYjZ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L1JrjwH0KJIS886fdYjZ-102" value="隐藏冗余控件" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="436" y="145" width="126" height="48" as="geometry" />
         </mxCell>
