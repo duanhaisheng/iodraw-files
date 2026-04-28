@@ -27,6 +27,11 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-180" value="信息校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="175" y="450" width="112" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-181">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="29.999999999999773" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-181" value="弹窗提示+刷新验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="50" y="620" width="212" height="48" as="geometry" />
         </mxCell>
