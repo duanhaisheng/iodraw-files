@@ -468,10 +468,10 @@
           <mxGeometry x="69" y="1080" width="144" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-18" value="显示账号+密码信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1320" width="196" height="48" as="geometry" />
+          <mxGeometry x="160" y="1249" width="196" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-19" value="错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="1290" width="92" height="48" as="geometry" />
+          <mxGeometry x="-23" y="1220" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-20" value="打开密码找回弹窗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="344" y="866" width="188" height="48" as="geometry" />
