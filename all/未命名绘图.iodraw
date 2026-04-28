@@ -611,8 +611,16 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-55" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="131" y="1255" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-57" target="RMnuCrPKX2Ux9K8R0CJY-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="41" y="1240" />
+              <mxPoint x="23" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-57" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="31" y="1255" width="20" height="20" as="geometry" />
+          <mxGeometry x="97" y="1230" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
