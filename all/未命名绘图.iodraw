@@ -124,6 +124,11 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-189" value="搜索是否匹配？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="969" width="180" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-190">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-190" value="展示筛选后图书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="271" y="1082.47" width="172" height="48" as="geometry" />
         </mxCell>
