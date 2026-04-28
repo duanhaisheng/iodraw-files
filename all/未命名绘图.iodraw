@@ -10,7 +10,7 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-177" value="系统选择界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="459" y="118" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-178">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-178" target="RMnuCrPKX2Ux9K8R0CJY-179">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129.99999999999977" y="262.9999999999999" as="targetPoint" />
           </mxGeometry>
@@ -22,7 +22,7 @@
           <mxGeometry x="20" y="338" width="221" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-180" value="信息校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="29" y="458" width="112" height="112" as="geometry" />
+          <mxGeometry x="29" y="458" width="112" height="62" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-181" value="弹窗提示+刷新验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="24" y="643" width="212" height="48" as="geometry" />
