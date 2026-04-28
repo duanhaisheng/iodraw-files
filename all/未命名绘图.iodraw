@@ -521,7 +521,7 @@
           <mxGeometry x="991.5" y="1370" width="215" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-28" value="格式错误提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1292" y="1297" width="156" height="48" as="geometry" />
+          <mxGeometry x="1241" y="1297" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-29" value="程序结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="634" y="866" width="124" height="48" as="geometry" />
