@@ -434,16 +434,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-10" value="开始运行main.py" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="605" y="220" width="183" height="48" as="geometry" />
+          <mxGeometry x="605" y="260" width="183" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-11" value="实例化 Main 主类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="605" y="318" width="183" height="48" as="geometry" />
+          <mxGeometry x="605" y="358" width="183" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-12" value="逐级继承初始化: UI→功能 1→2→3→4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="574" y="417" width="246" height="66" as="geometry" />
+          <mxGeometry x="574" y="457" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-13" value="加载主窗口、背景、输入框、所有按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="533" width="252" height="66" as="geometry" />
+          <mxGeometry x="570" y="573" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-14" target="RMnuCrPKX2Ux9K8R0CJY-23">
           <mxGeometry relative="1" as="geometry">
@@ -460,7 +460,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-14" value="用户选择操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="624" y="649" width="144" height="61" as="geometry" />
+          <mxGeometry x="624" y="689" width="144" height="61" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-15" value="读取本地txt用户数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="866" width="225" height="48" as="geometry" />
