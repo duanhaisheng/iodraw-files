@@ -75,7 +75,7 @@
           <mxGeometry x="401" y="790" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-185" value="打开图书浏览主界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="432" y="862" width="204" height="48" as="geometry" />
+          <mxGeometry x="393" y="862" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-186" value="自动加载全部图书数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="131" y="983" width="220" height="48" as="geometry" />
@@ -172,6 +172,9 @@
               <mxPoint x="743" y="947" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-225" target="RMnuCrPKX2Ux9K8R0CJY-184">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-225" value="点击开始浏览图书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="401" y="720" width="188" height="48" as="geometry" />
