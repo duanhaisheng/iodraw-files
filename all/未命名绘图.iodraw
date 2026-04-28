@@ -501,6 +501,11 @@
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-24" value="格式校验: 密码/手机/非法字符过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1037" y="964" width="237" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-25" target="RMnuCrPKX2Ux9K8R0CJY-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1156" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-25" value="信息是否合法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1078" y="1128" width="156" height="52" as="geometry" />
         </mxCell>
