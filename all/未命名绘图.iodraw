@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-182" value="进入登录成功页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="287" y="548.47" width="188" height="48" as="geometry" />
+          <mxGeometry x="287" y="548.47" width="188" height="31.53" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-183" value="展示实时时钟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="156" height="48" as="geometry" />
