@@ -506,7 +506,7 @@
             <mxPoint x="1156" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-79" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMnuCrPKX2Ux9K8R0CJY-78">
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-79" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMnuCrPKX2Ux9K8R0CJY-78">
           <mxGeometry x="-0.0108" y="2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
