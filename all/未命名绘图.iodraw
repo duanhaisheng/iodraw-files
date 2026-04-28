@@ -59,7 +59,7 @@
           <mxGeometry x="287" y="620" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-183" value="展示实时时钟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="234" y="764" width="156" height="48" as="geometry" />
+          <mxGeometry x="200" y="750" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-184" value="关闭所有登录窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="764" width="188" height="48" as="geometry" />
