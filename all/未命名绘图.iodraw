@@ -459,6 +459,11 @@
             <mxPoint x="140.5714285714289" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-67" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMnuCrPKX2Ux9K8R0CJY-65">
+          <mxGeometry x="0.004" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-17" target="RMnuCrPKX2Ux9K8R0CJY-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="141" y="1240" as="targetPoint" />
@@ -468,7 +473,7 @@
           <mxGeometry x="69" y="1080" width="144" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-18" value="显示账号+密码信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1249" width="196" height="48" as="geometry" />
+          <mxGeometry x="150" y="1220" width="196" height="48" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-19" value="错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-23" y="1220" width="92" height="48" as="geometry" />
