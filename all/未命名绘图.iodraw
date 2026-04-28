@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1002" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,12 +432,6 @@
             <mxPoint x="496" y="145" as="sourcePoint" />
             <mxPoint x="496" y="120" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-8" value="" style="shape=stencil(rZfbbtswDIafxreEziSvu+49CjRdgmVNkWantx+zTHFEx/8wYHeOws8Sf57kKT+8b5/eNlMK76fj4fPm++75tJ3yhyml3et2c9yd7GnKj1N+eDkcN5+Oh6+vz5ffb09ny/PTl8O38xt+XLgcqcqZSuHnnxXS8nvh48V+v3u9tRcKcbCPmXJbB0qh2AYgReIAAKHkThQo8zpQE6U8AtJX7gNMOQ1ADaS6DrRMMjrdCqW6DnDyqnKjDJwWA+oACENAC7VRVjVZIwCYZNxBE4kAQBc7FHwkJQ0jUEkSAISq24EpgTjY+5hHQLpu94HYD3AFlArIJVM9Zg8o2MECF3UBgAJiphoXR0K5lKnqwmkgKweSvJAV7NCUqgNMaJAaBnhZrR5AE+BIzQUu9XS8DxQS57S9AqQG6yJwVtOgHsT6HHuggh1EerncAAycVmuM1ftQUAE10uxVKmgHpeTicO1Ud4EYAoVFjWZUo6ar87rhora/i0/XiGVKDjC3UOSEeAEIKDkLtSuIGx3WssnLpD2D1/KVxXst/xOoxfdv0a7D2uCto0wscI5ma+/jkVqFJZQqhRGwUVxBqCNTGPM1KxxadrdQdxewKQeyL8be6a63DVwRjcLYZ6LVA7g7hD6gri7DqC3KrcAuFqi5mwzs9DZ7nLNUwNkLlVHM2Bfup2jvPd08wHyLoQ/K2R7dwmLpkZztUU3GxW3B7MEIMTGSP08G2lskKzt7BfIk6Ykyy4kybb7FztFCjfSfb+Z/tbeH+TPgZbffX74ibv/3nw22dPnkyI+/AA==);lineShape=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="605.8016815515311" y="63.40522143330361" width="11.284973313899627" height="36.569690022355076" as="geometry" />
-        </mxCell>
-        <mxCell id="RMnuCrPKX2Ux9K8R0CJY-9" value="" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="614.2679852565382" y="96.67533076906602" width="4.672539772115442" height="4.665236216357698" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
