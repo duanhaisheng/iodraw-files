@@ -15,49 +15,49 @@
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-244" target="RMnuCrPKX2Ux9K8R0CJY-250">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="120" as="targetPoint" />
+            <mxPoint x="464" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=18;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-244" target="RMnuCrPKX2Ux9K8R0CJY-249">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="120" as="targetPoint" />
+            <mxPoint x="464" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-244" value="图书管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="354" y="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-245" target="RMnuCrPKX2Ux9K8R0CJY-252">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-245" value="系统启动" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="80" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-246" target="RMnuCrPKX2Ux9K8R0CJY-247">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-246" value="图书查看" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="625" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="675" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-247" value="图书搜索" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="625" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="675" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=18;" edge="1" parent="1" source="RMnuCrPKX2Ux9K8R0CJY-248" target="RMnuCrPKX2Ux9K8R0CJY-246">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-248" value="进入图书浏览界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="610" y="130" width="150" height="40" as="geometry" />
+          <mxGeometry x="660" y="130" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-249" value="密码找回" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="474" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="524" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-250" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="340" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-251" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="210" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RMnuCrPKX2Ux9K8R0CJY-252" value="登陆选择&lt;div style=&quot;font-size: 18px;&quot;&gt;（用户/管理员）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="70" y="180" width="140" height="50" as="geometry" />
+          <mxGeometry x="120" y="180" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
