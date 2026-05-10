@@ -41,14 +41,8 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-23" value="选择数据进行修改" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8WZ3-slsM2WpgJC8PN1d-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-26" target="8WZ3-slsM2WpgJC8PN1d-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-26" value="浏览数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="168.13" width="120" height="33.75" as="geometry" />
-        </mxCell>
-        <mxCell id="8WZ3-slsM2WpgJC8PN1d-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="50" width="80" height="61.26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
