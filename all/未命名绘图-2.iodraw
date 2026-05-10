@@ -70,8 +70,14 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-37" value="是否数据分析？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="70" width="160" height="57.5" as="geometry" />
         </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-39" target="8WZ3-slsM2WpgJC8PN1d-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-39" value="绘制饼图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="245" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
