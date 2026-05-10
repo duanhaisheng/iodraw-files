@@ -74,16 +74,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-39" value="绘制饼图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="300" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-42" target="8WZ3-slsM2WpgJC8PN1d-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-42" value="比例小于2.5%？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="211.88" width="160" height="58.12" as="geometry" />
+          <mxGeometry x="280" y="211.88" width="160" height="58.12" as="geometry" />
         </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-44" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="300" width="120" height="30" as="geometry" />
+          <mxGeometry x="300" y="296.88" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
