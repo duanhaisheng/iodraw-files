@@ -35,6 +35,9 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-21" value="是否修改数据？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="160" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-23" target="8WZ3-slsM2WpgJC8PN1d-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-23" value="选择数据进行修改" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="120" height="30" as="geometry" />
         </mxCell>
