@@ -7,6 +7,9 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-1" target="8WZ3-slsM2WpgJC8PN1d-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-1" target="8WZ3-slsM2WpgJC8PN1d-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-1" value="图书管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="30" width="120" height="40" as="geometry" />
         </mxCell>
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-4" value="选择文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-6" value="图书管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
