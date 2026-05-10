@@ -121,8 +121,8 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-57" value="显示在图右侧" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="84.68" width="120" height="28.13" as="geometry" />
         </mxCell>
-        <mxCell id="8WZ3-slsM2WpgJC8PN1d-60" value="" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="150" width="120" height="51.88" as="geometry" />
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-60" value="新窗口显示" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="155" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
