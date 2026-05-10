@@ -121,8 +121,14 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-57" value="显示在图右侧" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="84.68" width="120" height="28.13" as="geometry" />
         </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-60" target="8WZ3-slsM2WpgJC8PN1d-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-60" value="新窗口显示" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="155" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-62" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="247.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
