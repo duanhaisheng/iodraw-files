@@ -40,8 +40,8 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-10" value="数据可视化分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8WZ3-slsM2WpgJC8PN1d-12" value="数据可视化分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="210" width="120" height="40" as="geometry" />
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-12" value="绘制饼图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
