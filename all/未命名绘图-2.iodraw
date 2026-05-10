@@ -107,11 +107,22 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-55" target="8WZ3-slsM2WpgJC8PN1d-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-59" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8WZ3-slsM2WpgJC8PN1d-58">
+          <mxGeometry x="0.3487" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-55" target="8WZ3-slsM2WpgJC8PN1d-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-55" value="图例超过30个？" style="rhombus;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="160" height="63.75" as="geometry" />
         </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-57" value="显示在图右侧" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="84.68" width="120" height="28.13" as="geometry" />
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-60" value="" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="141.875" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
