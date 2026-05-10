@@ -79,7 +79,7 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-42" target="8WZ3-slsM2WpgJC8PN1d-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8WZ3-slsM2WpgJC8PN1d-48" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8WZ3-slsM2WpgJC8PN1d-45">
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-48" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8WZ3-slsM2WpgJC8PN1d-45">
           <mxGeometry x="0.2434" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="3" as="offset" />
           </mxGeometry>
@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8WZ3-slsM2WpgJC8PN1d-44" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-44" value="数据显示在图表上" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="296.88" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-46" target="8WZ3-slsM2WpgJC8PN1d-51">
