@@ -53,8 +53,14 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-33" value="导出文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="98.13" width="120" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="8WZ3-slsM2WpgJC8PN1d-35" value="导出文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-35" target="8WZ3-slsM2WpgJC8PN1d-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-35" value="选择位置保存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="38.12" width="120" height="33.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="14.994999999999997" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
