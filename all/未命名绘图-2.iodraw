@@ -104,8 +104,14 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-46" value="数据以图例显示" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="225.94" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-55" target="8WZ3-slsM2WpgJC8PN1d-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-55" value="图例超过30个？" style="rhombus;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="140" width="160" height="63.75" as="geometry" />
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-57" value="" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="84.68" width="120" height="28.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
