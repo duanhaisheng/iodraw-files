@@ -112,8 +112,13 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-46" value="数据显示在图表上" style="whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="225.94" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-51" value="" style="rhombus;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="220" width="140" height="60.94" as="geometry" />
+          <mxGeometry x="640" y="215.94" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
