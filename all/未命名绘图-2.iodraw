@@ -59,8 +59,14 @@
         <mxCell id="8WZ3-slsM2WpgJC8PN1d-35" value="选择位置保存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="38.12" width="120" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="8WZ3-slsM2WpgJC8PN1d-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="22.5" width="160" height="57.5" as="geometry" />
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8WZ3-slsM2WpgJC8PN1d-37" target="8WZ3-slsM2WpgJC8PN1d-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-37" value="是否数据分析？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="26.25" width="160" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8WZ3-slsM2WpgJC8PN1d-39" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="162.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
