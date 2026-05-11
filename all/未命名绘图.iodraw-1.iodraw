@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ojqDiEbI7iMWevdzwH-T-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="230" y="250" width="250" height="247" as="geometry" />
+          <mxGeometry x="310" y="250" width="170" height="247" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-7" value="核心业务模块" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="28.59" y="57" width="21.41" height="190" as="geometry" />
+          <mxGeometry x="10" y="-4.75" width="14.558800000000002" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-8" value="用户管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="140" y="9.5" width="97.5" height="47.5" as="geometry" />
+          <mxGeometry x="95.2" y="9.5" width="66.30000000000001" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-9" value="图书管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="140" y="66.5" width="97.5" height="47.5" as="geometry" />
+          <mxGeometry x="95.2" y="66.5" width="66.30000000000001" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-11" value="借阅管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="140" y="123.5" width="97.5" height="49.56" as="geometry" />
+          <mxGeometry x="95.2" y="123.5" width="66.30000000000001" height="49.56" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-21" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="170" width="45" height="70" as="geometry" />
