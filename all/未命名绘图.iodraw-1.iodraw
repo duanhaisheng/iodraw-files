@@ -22,8 +22,8 @@
         <mxCell id="ojqDiEbI7iMWevdzwH-T-21" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="341.25" y="190" width="27.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-22" value="SQLite 本地数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=90;fillColor=#B0B0B0;horizontal=0;verticalAlign=middle;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314.38" y="60" width="81.25" height="165" as="geometry" />
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-22" value="SQLite&amp;nbsp;&lt;div&gt;本地数据库&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=90;fillColor=#B0B0B0;horizontal=0;verticalAlign=middle;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="324.38" y="50" width="81.25" height="185" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-23" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="341.25" y="450" width="27.5" height="50" as="geometry" />
