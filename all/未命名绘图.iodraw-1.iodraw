@@ -14,10 +14,10 @@
           <mxGeometry x="160" y="10" width="96.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-9" value="图书管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="160" y="77.83" width="96.5" height="42.17" as="geometry" />
+          <mxGeometry x="160" y="70" width="96.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-11" value="借阅管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="160" y="140" width="96.5" height="42.17" as="geometry" />
+          <mxGeometry x="160" y="130" width="96.5" height="52.17" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-13" value="文件导入/导出" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
           <mxGeometry x="50" y="60.870000000000005" width="96.5" height="42.17" as="geometry" />
