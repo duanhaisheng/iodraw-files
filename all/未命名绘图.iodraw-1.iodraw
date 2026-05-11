@@ -24,6 +24,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-7" target="-a3hFuoiGzfyZYCyFnAP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="用户是否输入搜索关键词？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1180" y="332.5" width="290" height="85" as="geometry" />
         </mxCell>
@@ -37,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-14" value="执行模糊查询（书名 / 作者 / 出版社） " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="357" width="210" height="53" as="geometry" />
+          <mxGeometry x="1560" y="348.5" width="210" height="53" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-16" target="-a3hFuoiGzfyZYCyFnAP-19">
           <mxGeometry relative="1" as="geometry" />
