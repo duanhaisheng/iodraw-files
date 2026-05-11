@@ -107,10 +107,17 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-73" target="54gWCxaw4apOYOERPg1i-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1420" y="520" />
+              <mxPoint x="1451" y="520" />
               <mxPoint x="1451" y="540" />
               <mxPoint x="913" y="540" />
               <mxPoint x="913" y="285" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-84" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-76">
+          <mxGeometry x="-0.8991" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-73" value="提示 “手机号格式错误” " style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
