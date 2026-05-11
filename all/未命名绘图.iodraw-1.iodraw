@@ -25,7 +25,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="是否修改密码？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="943" y="340" width="160" height="85" as="geometry" />
+          <mxGeometry x="943" y="460" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-9" target="-a3hFuoiGzfyZYCyFnAP-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-9" value="从 books 表读取所有图书" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="933" y="260" width="180" height="50" as="geometry" />
@@ -67,6 +70,9 @@
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-21" value="输入新信息  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1166.25" y="357" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-24" value="从 books 表读取所有图书" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="933" y="390" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
