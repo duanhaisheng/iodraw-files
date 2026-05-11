@@ -64,8 +64,11 @@
         <mxCell id="ojqDiEbI7iMWevdzwH-T-40" value="数据交互层" style="html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-39">
           <mxGeometry x="7.82" y="10" width="134.37" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-41" value="用户" style="shape=actor;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-41" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;arcSize=10;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-205" y="360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
