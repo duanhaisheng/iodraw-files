@@ -24,6 +24,9 @@
             <mxPoint x="1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-50" target="54gWCxaw4apOYOERPg1i-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-50" value="是否修改密码？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="943" y="340" width="160" height="85" as="geometry" />
         </mxCell>
@@ -108,7 +111,7 @@
           <mxGeometry x="690" y="601" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-131" value="直接输入新信息  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1166.25" y="359" width="180" height="50" as="geometry" />
+          <mxGeometry x="1166.25" y="357" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
