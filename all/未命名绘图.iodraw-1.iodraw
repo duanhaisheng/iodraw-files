@@ -51,16 +51,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-16" value="显示匹配结果" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="265" width="180" height="45" as="geometry" />
+          <mxGeometry x="1575" y="260" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-17" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1525.25" y="169.5" width="100.5" height="58" as="geometry" />
+          <mxGeometry x="1369.5" y="175" width="100.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-19" target="-a3hFuoiGzfyZYCyFnAP-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-19" value="退回登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="175" width="180" height="45" as="geometry" />
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-19" value="用户可选择图书进行借阅 / 归还" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="181.5" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-21" value="保持显示全部图书  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1235" y="480" width="180" height="50" as="geometry" />
