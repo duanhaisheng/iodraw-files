@@ -49,7 +49,7 @@
         <mxCell id="ojqDiEbI7iMWevdzwH-T-33" value="" style="html=1;arcSize=10;labelBackgroundColor=default;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="-260" y="510" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-34" value="管理员主界面" style="html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-33">
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-34" value="用户主界面" style="html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-33">
           <mxGeometry x="7.82" y="10" width="134.37" height="50" as="geometry" />
         </mxCell>
       </root>
