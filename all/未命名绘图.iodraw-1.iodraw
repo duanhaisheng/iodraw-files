@@ -201,8 +201,14 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-105" value="提示 “注册成功”" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1280" y="175" width="101" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-107" value="提示 “注册成功”" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="54gWCxaw4apOYOERPg1i-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-107" target="54gWCxaw4apOYOERPg1i-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-107" value="跳转到登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="175" width="101" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-109" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150.5" y="32.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
