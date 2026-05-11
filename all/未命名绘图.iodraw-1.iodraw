@@ -56,13 +56,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-77" value="新信息是否为空 / 格式合法？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1369.25" y="342" width="154" height="80" as="geometry" />
+          <mxGeometry x="1403" y="342" width="154" height="80" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-80" value="提示 “格式错误”  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1356.25" y="472" width="180" height="50" as="geometry" />
+          <mxGeometry x="1390" y="472" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-85" target="54gWCxaw4apOYOERPg1i-88">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="54gWCxaw4apOYOERPg1i-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="54gWCxaw4apOYOERPg1i-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1859.9988235294118" y="440.00039215686274" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-113" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-112">
           <mxGeometry x="-0.2463" y="-1" relative="1" as="geometry">
@@ -81,7 +83,7 @@
           <mxGeometry x="1620" y="342" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-88" value="提示“用户名或密码错误” " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1560" y="470" width="180" height="48" as="geometry" />
+          <mxGeometry x="1679.94" y="488.02" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-107" target="54gWCxaw4apOYOERPg1i-119">
           <mxGeometry relative="1" as="geometry" />
