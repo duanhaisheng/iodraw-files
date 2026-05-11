@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ojqDiEbI7iMWevdzwH-T-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="240" y="130" width="250" height="190" as="geometry" />
+          <mxGeometry x="230" y="130" width="250" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-7" value="核心业务模块" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="33.5862962962963" y="57" width="82.17592592592592" height="190" as="geometry" />
+          <mxGeometry x="28.586296296296297" y="57" width="82.17592592592592" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-8" value="用户管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
           <mxGeometry x="148.14814814814815" y="9.5" width="89.35185185185185" height="47.5" as="geometry" />
