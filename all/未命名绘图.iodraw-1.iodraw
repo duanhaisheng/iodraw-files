@@ -80,7 +80,7 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-85" target="54gWCxaw4apOYOERPg1i-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-113" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-112">
+        <mxCell id="54gWCxaw4apOYOERPg1i-113" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-112">
           <mxGeometry x="-0.2463" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
