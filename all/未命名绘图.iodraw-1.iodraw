@@ -68,6 +68,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-30" target="-a3hFuoiGzfyZYCyFnAP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-30" value="图书状态是否为 “可借阅”" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="878" y="220" width="290" height="85" as="geometry" />
         </mxCell>
