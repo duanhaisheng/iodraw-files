@@ -21,7 +21,7 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-7" target="-a3hFuoiGzfyZYCyFnAP-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a3hFuoiGzfyZYCyFnAP-5">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="-a3hFuoiGzfyZYCyFnAP-5">
           <mxGeometry x="-0.2311" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -45,7 +45,7 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-14" value="插入借阅申请：状态 = 待处理 " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1838" y="409.5" width="210" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-16" target="-a3hFuoiGzfyZYCyFnAP-17">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-16" target="-a3hFuoiGzfyZYCyFnAP-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-16" value="提示 “借阅申请提交成功”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
@@ -54,7 +54,7 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-17" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1892.75" y="76" width="100.5" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-21">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1890" y="100" as="targetPoint" />
             <Array as="points">
@@ -71,18 +71,18 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-24" value="查询 borrow_requests 表" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1160" y="412.5" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-30" target="-a3hFuoiGzfyZYCyFnAP-24">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-30" target="-a3hFuoiGzfyZYCyFnAP-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a3hFuoiGzfyZYCyFnAP-34">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="-a3hFuoiGzfyZYCyFnAP-34">
           <mxGeometry x="-0.629" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-30" target="-a3hFuoiGzfyZYCyFnAP-32">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-30" target="-a3hFuoiGzfyZYCyFnAP-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-38" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a3hFuoiGzfyZYCyFnAP-37">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-38" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="-a3hFuoiGzfyZYCyFnAP-37">
           <mxGeometry x="-0.1703" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -90,8 +90,13 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-30" value="图书状态是否为 “可借阅”" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="878" y="220" width="290" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-32" target="-a3hFuoiGzfyZYCyFnAP-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-32" target="-a3hFuoiGzfyZYCyFnAP-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1331" y="100" />
+              <mxPoint x="1893" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-32" value="提示 “图书已借出”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1241" y="240" width="180" height="45" as="geometry" />
