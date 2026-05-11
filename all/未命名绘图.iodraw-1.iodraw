@@ -58,6 +58,9 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-77" value="新信息是否为空 / 格式合法？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1401.5" y="338" width="268.5" height="87" as="geometry" />
         </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-80" target="54gWCxaw4apOYOERPg1i-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-80" value="提示 “格式错误”  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1445.75" y="470" width="180" height="50" as="geometry" />
         </mxCell>
