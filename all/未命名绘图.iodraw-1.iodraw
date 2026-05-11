@@ -13,9 +13,6 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-2" value="用户输入：用户名、密码、确认密码、手机号、验证码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="831" y="687" width="258" height="143" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-4" value="提示 “请填写完整信息”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="1210" width="226" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-5" value="两次密码是否一致？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="461" y="1228" width="192" height="192" as="geometry" />
         </mxCell>
@@ -70,20 +67,22 @@
             <mxPoint x="239.99999999999977" y="995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.45;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="54gWCxaw4apOYOERPg1i-4">
+        <mxCell id="54gWCxaw4apOYOERPg1i-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.45;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="1191" />
             </Array>
             <mxPoint x="239.99999999999977" y="1080" as="sourcePoint" />
+            <mxPoint x="241.92156862745105" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=-0.01;entryX=0;entryY=0.64;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-4" target="54gWCxaw4apOYOERPg1i-2">
+        <mxCell id="54gWCxaw4apOYOERPg1i-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=-0.01;entryX=0;entryY=0.64;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="54gWCxaw4apOYOERPg1i-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="412" y="1191" />
               <mxPoint x="412" y="970" />
             </Array>
+            <mxPoint x="272.94117647058806" y="1210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-22" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="54gWCxaw4apOYOERPg1i-5">
