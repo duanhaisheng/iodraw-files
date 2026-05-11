@@ -68,7 +68,7 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-24" value="查询 borrow_requests 表" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1073" y="412.5" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-30" value="图书状态是否为 “可借阅”" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-30" value="执行同意 or 拒绝" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="828" y="420" width="290" height="85" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-32" value="提示 “图书已借出”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
