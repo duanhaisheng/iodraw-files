@@ -34,7 +34,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="图书状态是否为 “可借阅”" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="是否已有该用户 + 该图书的待处理申请" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1180" y="332.5" width="290" height="85" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" target="-a3hFuoiGzfyZYCyFnAP-24">
