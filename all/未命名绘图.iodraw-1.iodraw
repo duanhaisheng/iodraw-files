@@ -97,8 +97,8 @@
             <mxPoint x="200" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="110" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-50" value="&lt;span style=&quot;font-size: 14px; text-align: left; background-color: initial;&quot;&gt;SQLite&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 14px; text-align: left;&quot;&gt;本地数据库&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="301.19" y="122.81" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
