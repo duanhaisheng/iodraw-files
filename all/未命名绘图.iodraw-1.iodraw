@@ -45,6 +45,9 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-14" value="插入借阅申请：状态 = 待处理 " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1838" y="409.5" width="210" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-16" target="-a3hFuoiGzfyZYCyFnAP-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-16" value="提示 “借阅申请提交成功”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1837" y="305" width="212" height="45" as="geometry" />
         </mxCell>
@@ -84,6 +87,9 @@
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-32" value="提示 “图书已借出”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1241" y="240" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-43" value="点击查看借阅请求情况" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1837" y="180" width="212" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
