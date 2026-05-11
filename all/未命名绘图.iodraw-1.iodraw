@@ -41,6 +41,9 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-14" value="将图书状态改为 “可借阅” " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1485" y="192" width="240" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-16" target="-a3hFuoiGzfyZYCyFnAP-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-16" value="更新请求状态为 “已同意”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1780" y="195" width="250" height="50" as="geometry" />
         </mxCell>
@@ -82,7 +85,7 @@
           <mxGeometry x="1224" y="200" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-43" value="刷新列表" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="105" width="250" height="45" as="geometry" />
+          <mxGeometry x="1780" y="100" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-50" target="-a3hFuoiGzfyZYCyFnAP-30">
           <mxGeometry relative="1" as="geometry" />
