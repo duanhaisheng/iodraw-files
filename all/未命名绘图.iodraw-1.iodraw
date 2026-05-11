@@ -86,19 +86,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-85" value="用户名是否已存在？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1166.25" y="155" width="149.5" height="80" as="geometry" />
+          <mxGeometry x="1335.25" y="277" width="149.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-88" value="提示 “手机号格式错误” " style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1151" y="78" width="180" height="48" as="geometry" />
+          <mxGeometry x="1320" y="200" width="180" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-95" target="54gWCxaw4apOYOERPg1i-85">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="54gWCxaw4apOYOERPg1i-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="54gWCxaw4apOYOERPg1i-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410.0588235294117" y="382" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-95" value="查询数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1181" y="260" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-107" target="54gWCxaw4apOYOERPg1i-109">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="54gWCxaw4apOYOERPg1i-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1359.4705882352941" y="297" as="sourcePoint" />
+            <mxPoint x="1359.25" y="252" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-107" value="跳转到登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="175" width="101" height="45" as="geometry" />
