@@ -55,17 +55,6 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-55" value="提示 “请填写完整信息”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="470" width="190" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="54gWCxaw4apOYOERPg1i-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1241" y="518" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1240" y="518" />
-              <mxPoint x="1240" y="540" />
-              <mxPoint x="890" y="540" />
-              <mxPoint x="890" y="285" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-77" target="54gWCxaw4apOYOERPg1i-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -105,14 +94,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-85" target="54gWCxaw4apOYOERPg1i-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-104" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-103">
-          <mxGeometry x="-0.178" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-85" value="用户名是否已存在？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1605.5" y="155" width="149.5" height="80" as="geometry" />
         </mxCell>
@@ -133,18 +114,6 @@
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-95" value="查询数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1620.25" y="260" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-102" target="54gWCxaw4apOYOERPg1i-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-102" value="将用户信息写入数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1420" y="175" width="140" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-105" target="54gWCxaw4apOYOERPg1i-107">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-105" value="提示 “注册成功”" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="175" width="101" height="45" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-107" target="54gWCxaw4apOYOERPg1i-109">
           <mxGeometry relative="1" as="geometry" />
