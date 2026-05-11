@@ -28,7 +28,7 @@
         <mxCell id="ojqDiEbI7iMWevdzwH-T-21" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="170" width="45" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-22" value="SQLite 本地数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=90;fillColor=#B0B0B0;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-22" value="SQLite 本地数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=90;fillColor=#B0B0B0;horizontal=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="345" y="40" width="60" height="170" as="geometry" />
         </mxCell>
       </root>
