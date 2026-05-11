@@ -33,16 +33,15 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-9" value="从 books 表读取所有图书" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="933" y="260" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-12" target="-a3hFuoiGzfyZYCyFnAP-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" target="-a3hFuoiGzfyZYCyFnAP-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1718.5" y="413.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="-a3hFuoiGzfyZYCyFnAP-10">
           <mxGeometry x="-0.0218" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-12" value="新信息是否为空 / 格式合法？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1401.5" y="338" width="268.5" height="87" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-14" target="-a3hFuoiGzfyZYCyFnAP-16">
           <mxGeometry relative="1" as="geometry" />
@@ -64,9 +63,6 @@
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-19" value="退回登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1730" y="175" width="180" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-21" target="-a3hFuoiGzfyZYCyFnAP-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-21" value="输入新信息  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1140" y="540" width="180" height="50" as="geometry" />
