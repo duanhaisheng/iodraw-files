@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-43" value="点击我的借阅/归还" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1836" y="192.5" width="212" height="45" as="geometry" />
+          <mxGeometry x="1836" y="170" width="212" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-45" value="查看借阅请求情况" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1836" y="47.5" width="212" height="45" as="geometry" />
