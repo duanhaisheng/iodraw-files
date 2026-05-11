@@ -80,10 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-63" value="两次密码是否一致？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1143" y="340" width="160" height="85" as="geometry" />
+          <mxGeometry x="1160" y="340" width="160" height="85" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-67" value="提示 “两次密码不一致”" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1133" y="470" width="180" height="48" as="geometry" />
+          <mxGeometry x="1150" y="470" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-69" target="54gWCxaw4apOYOERPg1i-73">
           <mxGeometry relative="1" as="geometry" />
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-69" value="手机号格式是否为 11 位？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1333" y="340" width="173" height="85" as="geometry" />
+          <mxGeometry x="1350" y="340" width="173" height="85" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-73" target="54gWCxaw4apOYOERPg1i-52">
           <mxGeometry relative="1" as="geometry">
@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-73" value="提示 “手机号格式错误” " style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1329.5" y="470" width="180" height="48" as="geometry" />
+          <mxGeometry x="1346.5" y="470" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-77" target="54gWCxaw4apOYOERPg1i-80">
           <mxGeometry relative="1" as="geometry" />
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-77" value="验证码是否正确？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1541.5" y="342.5" width="149.5" height="80" as="geometry" />
+          <mxGeometry x="1558.5" y="342.5" width="149.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-80" target="54gWCxaw4apOYOERPg1i-52">
           <mxGeometry relative="1" as="geometry">
@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-80" value="提示 “验证码错误” " style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1526.25" y="470" width="180" height="48" as="geometry" />
+          <mxGeometry x="1543.25" y="470" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-85" target="54gWCxaw4apOYOERPg1i-88">
           <mxGeometry relative="1" as="geometry" />
