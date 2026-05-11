@@ -141,8 +141,8 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-119" value="进入用户图书浏览界面" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1560" y="174" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-125" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="985" y="582" width="80" height="80" as="geometry" />
+        <mxCell id="54gWCxaw4apOYOERPg1i-125" value="原密码是否正确" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="582" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
