@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="-390" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="175" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -150,10 +150,13 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-85" target="54gWCxaw4apOYOERPg1i-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-101" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-100">
+        <mxCell id="54gWCxaw4apOYOERPg1i-101" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-100">
           <mxGeometry x="-0.2265" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-85" target="54gWCxaw4apOYOERPg1i-102">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-85" value="用户名是否已存在？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1541.5" y="155" width="149.5" height="80" as="geometry" />
@@ -175,6 +178,9 @@
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-95" value="查询数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1556.25" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-102" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1326.75" y="165" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
