@@ -14,7 +14,7 @@
           <mxGeometry x="30" y="7.31" width="110" height="52.69" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-9" value="图书管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="44.11764705882353" y="70" width="88.23529411764706" height="50" as="geometry" />
+          <mxGeometry x="30" y="70" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-11" value="借阅管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
           <mxGeometry x="45.75" y="130" width="86.6029411764706" height="50" as="geometry" />
