@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-4" value="进入借阅请求管理界面" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="903" y="104" width="240" height="46" as="geometry" />
+          <mxGeometry x="903" y="100" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="是否已有该用户 + 该图书的待处理申请？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1290" y="500" width="420" height="85" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="1837" y="287.5" width="212" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-17" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1280.75" y="40" width="100.5" height="58" as="geometry" />
+          <mxGeometry x="1530" y="-90" width="100.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-21" value="提示 “请勿重复申请”  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1658" y="317.5" width="180" height="50" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-30" value="执行同意？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1200" y="280" width="228" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-32" target="-a3hFuoiGzfyZYCyFnAP-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-32" value="输入原因" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1224" y="200" width="180" height="45" as="geometry" />
