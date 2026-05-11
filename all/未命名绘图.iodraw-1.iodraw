@@ -13,10 +13,10 @@
         <mxCell id="ojqDiEbI7iMWevdzwH-T-8" value="用户管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
           <mxGeometry x="50" y="7.31" width="100" height="52.69" as="geometry" />
         </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-9" value="图书管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-9" value="图书管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
           <mxGeometry x="50" y="70" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-11" value="借阅管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-11" value="借阅管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
           <mxGeometry x="51.85" y="130" width="98.15" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-21" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
