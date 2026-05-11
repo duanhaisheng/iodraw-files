@@ -156,7 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-85" value="验证码是否正确？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1730" y="342.5" width="149.5" height="80" as="geometry" />
+          <mxGeometry x="1541.5" y="190" width="149.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-88" target="54gWCxaw4apOYOERPg1i-52">
           <mxGeometry relative="1" as="geometry">
