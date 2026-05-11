@@ -195,8 +195,8 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-102" value="将用户信息写入数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1420" y="175" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-105" value="将用户信息写入数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1200" y="175" width="140" height="45" as="geometry" />
+        <mxCell id="54gWCxaw4apOYOERPg1i-105" value="提示 “注册成功”" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="175" width="101" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
