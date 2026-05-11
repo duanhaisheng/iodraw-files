@@ -27,6 +27,11 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-50" target="54gWCxaw4apOYOERPg1i-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-133" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-132">
+          <mxGeometry x="-0.0575" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-50" value="是否修改密码？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="943" y="340" width="160" height="85" as="geometry" />
         </mxCell>
