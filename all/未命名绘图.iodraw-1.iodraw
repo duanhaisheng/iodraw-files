@@ -209,16 +209,14 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-42" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;显示注册界面&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1370" y="560" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1430" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-44" value="用户输入：用户名、密码、&lt;div&gt;确认密码、手机号、验证码&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1300" y="642" width="260" height="88" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-49" value="输入是否为空？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="995" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-50" value="输入是否为空？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="1005" width="160" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
