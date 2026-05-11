@@ -97,7 +97,7 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-95" value="查询数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1364.75" y="357" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-107" value="跳转到登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="54gWCxaw4apOYOERPg1i-107" value="跳转到登录成功页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1599.5" y="250" width="101" height="45" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-109" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
