@@ -27,6 +27,11 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-7" target="-a3hFuoiGzfyZYCyFnAP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-28" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-a3hFuoiGzfyZYCyFnAP-27">
+          <mxGeometry x="-0.0356" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="用户是否输入搜索关键词？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1180" y="332.5" width="290" height="85" as="geometry" />
         </mxCell>
