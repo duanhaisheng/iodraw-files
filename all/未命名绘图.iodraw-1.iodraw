@@ -97,6 +97,11 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-69" target="54gWCxaw4apOYOERPg1i-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-79" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-78">
+          <mxGeometry x="-0.1368" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-69" value="手机号格式是否为 11 位？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1380" y="340" width="173" height="85" as="geometry" />
         </mxCell>
