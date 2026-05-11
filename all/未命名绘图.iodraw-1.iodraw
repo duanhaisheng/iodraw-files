@@ -35,7 +35,7 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="借阅请求？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1490" y="280" width="230" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-14" target="-a3hFuoiGzfyZYCyFnAP-16">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-14" target="-a3hFuoiGzfyZYCyFnAP-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-14" value="将图书状态改为 “可借阅” " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
           <mxGeometry x="1224" y="200" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-43" value="刷新列表" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1780" width="250" height="45" as="geometry" />
+          <mxGeometry x="1780" y="105" width="250" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-50" target="-a3hFuoiGzfyZYCyFnAP-30">
           <mxGeometry relative="1" as="geometry" />
