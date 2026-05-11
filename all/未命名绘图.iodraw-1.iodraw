@@ -71,6 +71,9 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-30" value="图书状态是否为 “可借阅”" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="878" y="220" width="290" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-32" value="用户可选择图书进行借阅 / 归还" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="133" width="180" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
