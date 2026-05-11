@@ -76,6 +76,9 @@
         <mxCell id="ojqDiEbI7iMWevdzwH-T-44" value="用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="570" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-45" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="520" width="27.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
