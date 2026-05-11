@@ -74,16 +74,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-107" value="提示 “修改成功，请重新登录”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1810" y="251" width="180" height="45" as="geometry" />
+          <mxGeometry x="1730" y="251" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-109" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1500" y="167.5" width="100.5" height="58" as="geometry" />
+          <mxGeometry x="1420" y="167.5" width="100.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-119" target="54gWCxaw4apOYOERPg1i-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-119" value="退回登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1810" y="175" width="180" height="45" as="geometry" />
+          <mxGeometry x="1730" y="175" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-125" target="54gWCxaw4apOYOERPg1i-127">
           <mxGeometry relative="1" as="geometry" />
