@@ -66,6 +66,9 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-19" value="用户可选择图书进行借阅 / 归还" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1575" y="133" width="180" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-21" target="-a3hFuoiGzfyZYCyFnAP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-21" value="保持显示全部图书  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1235" y="237.5" width="180" height="50" as="geometry" />
         </mxCell>
