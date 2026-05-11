@@ -36,8 +36,8 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-14" target="-a3hFuoiGzfyZYCyFnAP-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-14" value="更新数据库信息 " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="357" width="180" height="48" as="geometry" />
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-14" value="执行模糊查询（书名 / 作者 / 出版社） " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="357" width="210" height="53" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-16" target="-a3hFuoiGzfyZYCyFnAP-19">
           <mxGeometry relative="1" as="geometry" />
