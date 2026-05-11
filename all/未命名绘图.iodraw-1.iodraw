@@ -16,18 +16,8 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-4" value="进入借阅请求管理界面" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="903" y="134" width="240" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-7" target="-a3hFuoiGzfyZYCyFnAP-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1790" y="436" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" vertex="1" connectable="0" parent="-a3hFuoiGzfyZYCyFnAP-27">
-          <mxGeometry x="-0.0356" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="是否已有该用户 + 该图书的待处理申请？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="395" width="420" height="85" as="geometry" />
+          <mxGeometry x="1450" y="462.5" width="420" height="85" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-14" target="-a3hFuoiGzfyZYCyFnAP-16">
           <mxGeometry relative="1" as="geometry" />
