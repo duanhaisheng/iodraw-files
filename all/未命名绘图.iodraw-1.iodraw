@@ -24,16 +24,6 @@
             <mxPoint x="1" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-50" target="54gWCxaw4apOYOERPg1i-77">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1161" y="382.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-65" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-64">
-          <mxGeometry x="-0.0679" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-50" value="是否修改密码？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="943" y="340" width="160" height="85" as="geometry" />
         </mxCell>
