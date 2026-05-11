@@ -35,16 +35,10 @@
           <mxGeometry x="371.25" y="220" width="27.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-26" value="" style="html=1;arcSize=10;labelBackgroundColor=default;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="510" width="150" height="190" as="geometry" />
+          <mxGeometry x="280" y="510" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-28" value="用户管理" style="html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-26">
-          <mxGeometry x="30" y="7.31" width="110" height="52.69" as="geometry" />
-        </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-29" value="图书管理" style="html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-26">
-          <mxGeometry x="30" y="70" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-30" value="借阅管理" style="html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-26">
-          <mxGeometry x="30" y="130" width="110" height="50" as="geometry" />
+          <mxGeometry x="30" y="3.077894736842105" width="110" height="22.185263157894735" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
