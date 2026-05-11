@@ -212,11 +212,16 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-44" target="54gWCxaw4apOYOERPg1i-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-47">
+          <mxGeometry x="-0.1061" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-44" value="用户输入：用户名、密码、&lt;div&gt;确认密码、手机号、验证码&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1300" y="642" width="260" height="88" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-46" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1370" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="800" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
