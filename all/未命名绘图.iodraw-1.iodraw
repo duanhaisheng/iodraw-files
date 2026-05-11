@@ -83,8 +83,8 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-45" value="查看借阅请求情况" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1837" y="47.5" width="212" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-50" value="提示 “图书已借出”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1251" y="250" width="180" height="45" as="geometry" />
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-50" value="管理员选中一条请求" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="933" y="300" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-51" value="加载所有申请列表" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="933" y="215" width="180" height="45" as="geometry" />
