@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-77" value="新信息是否为空 / 格式合法？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1401.5" y="327" width="157" height="110" as="geometry" />
+          <mxGeometry x="1401.5" y="350" width="268.5" height="87" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-80" value="提示 “格式错误”  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1390" y="472" width="180" height="50" as="geometry" />
