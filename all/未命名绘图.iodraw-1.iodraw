@@ -53,22 +53,11 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-14" value="插入借阅申请：状态 = 待处理 " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1560" y="348.5" width="210" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-16" target="-a3hFuoiGzfyZYCyFnAP-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1665" y="211.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-16" value="提示 “借阅申请提交成功”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1575" y="240" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-17" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1415" y="126.5" width="100.5" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-19" target="-a3hFuoiGzfyZYCyFnAP-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-19" value="用户可选择图书进行借阅 / 归还" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1575" y="133" width="180" height="45" as="geometry" />
+          <mxGeometry x="1610" y="120" width="100.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-21" value="保持显示全部图书  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1235" y="237.5" width="180" height="50" as="geometry" />
