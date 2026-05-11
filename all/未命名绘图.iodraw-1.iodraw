@@ -127,6 +127,11 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-77" target="54gWCxaw4apOYOERPg1i-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="54gWCxaw4apOYOERPg1i-99" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54gWCxaw4apOYOERPg1i-97">
+          <mxGeometry x="-0.2298" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-77" value="验证码是否正确？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1541.5" y="342.5" width="149.5" height="80" as="geometry" />
         </mxCell>
@@ -169,7 +174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-95" value="查询数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1556.25" y="270" width="120" height="50" as="geometry" />
+          <mxGeometry x="1556.25" y="260" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
