@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-42" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;显示注册界面&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="963" y="170" width="120" height="50" as="geometry" />
+          <mxGeometry x="963" y="175" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-50" target="54gWCxaw4apOYOERPg1i-55">
           <mxGeometry relative="1" as="geometry" />
@@ -207,7 +207,7 @@
         <mxCell id="54gWCxaw4apOYOERPg1i-107" value="跳转到登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="175" width="101" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-109" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="54gWCxaw4apOYOERPg1i-109" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="80" width="100.5" height="58" as="geometry" />
         </mxCell>
       </root>
