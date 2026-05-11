@@ -52,7 +52,7 @@
           <mxGeometry x="1667.5" y="20" width="100.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-21" value="提示 “请勿重复申请”  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1474" y="235" width="180" height="50" as="geometry" />
+          <mxGeometry x="1480" y="240" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-24" target="-a3hFuoiGzfyZYCyFnAP-7">
           <mxGeometry relative="1" as="geometry" />
