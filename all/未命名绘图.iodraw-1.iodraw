@@ -210,7 +210,7 @@
           <mxGeometry x="1370" y="560" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-44" value="用户输入：用户名、密码、确认密码、手机号、验证码" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="642" width="270" height="45" as="geometry" />
+          <mxGeometry x="1280" y="642" width="300" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
