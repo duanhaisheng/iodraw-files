@@ -27,10 +27,7 @@
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="是否修改密码？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="943" y="340" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-9" target="-a3hFuoiGzfyZYCyFnAP-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-a3hFuoiGzfyZYCyFnAP-9" value="用户选择修改项：用户名 / 手机号 / 密码" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="-a3hFuoiGzfyZYCyFnAP-9" value="从 books 表读取所有图书" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="933" y="260" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-12" target="-a3hFuoiGzfyZYCyFnAP-14">
