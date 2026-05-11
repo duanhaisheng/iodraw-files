@@ -46,7 +46,7 @@
           <mxGeometry x="1838" y="409.5" width="210" height="53" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-16" value="提示 “借阅申请提交成功”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1838" y="250" width="212" height="45" as="geometry" />
+          <mxGeometry x="1837" y="305" width="212" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-17" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1280.75" y="40" width="100.5" height="58" as="geometry" />
