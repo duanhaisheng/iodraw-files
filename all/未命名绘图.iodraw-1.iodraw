@@ -197,8 +197,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-38" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1330" y="760" width="120" height="80" as="geometry" />
+        <mxCell id="54gWCxaw4apOYOERPg1i-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="770" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
