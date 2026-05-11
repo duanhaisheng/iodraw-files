@@ -4,34 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="54gWCxaw4apOYOERPg1i-8" value="提示 “手机号格式错误”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="866" y="1864" width="226" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=-0.01;entryX=0.92;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1089" y="1763" />
-              <mxPoint x="1089" y="970" />
-            </Array>
-            <mxPoint x="1018.891304347826" y="797.358695652174" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=1;entryY=0.67;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1414" y="2012" />
-              <mxPoint x="1414" y="970" />
-            </Array>
-            <mxPoint x="1309.46" y="2153" as="sourcePoint" />
-            <mxPoint x="1056.2686567164183" y="776.6417910447758" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="54gWCxaw4apOYOERPg1i-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=1;entryY=0.6;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1067.5" y="770.4166666666665" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="54gWCxaw4apOYOERPg1i-40" target="54gWCxaw4apOYOERPg1i-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
