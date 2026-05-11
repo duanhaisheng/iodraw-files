@@ -32,12 +32,18 @@
           <mxGeometry x="361.25" y="210" width="27.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-25" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="27.5" height="130" as="geometry" />
+          <mxGeometry x="180" y="480" width="27.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-26" value="" style="html=1;arcSize=10;labelBackgroundColor=default;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="280" y="510" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-28" value="管理员主界面" style="html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-26">
+          <mxGeometry x="7.82" y="10" width="134.37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-31" value="" style="html=1;arcSize=10;labelBackgroundColor=default;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="520" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-32" value="管理员主界面" style="html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-31">
           <mxGeometry x="7.82" y="10" width="134.37" height="50" as="geometry" />
         </mxCell>
       </root>
