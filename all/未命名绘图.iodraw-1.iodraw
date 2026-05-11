@@ -17,7 +17,7 @@
           <mxGeometry x="903" y="100" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-7" value="借阅请求？" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="280" width="230" height="85" as="geometry" />
+          <mxGeometry x="1490" y="280" width="230" height="85" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="-a3hFuoiGzfyZYCyFnAP-14" target="-a3hFuoiGzfyZYCyFnAP-16">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="1530" y="-90" width="100.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-21" value="提示 “请勿重复申请”  " style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1658" y="317.5" width="180" height="50" as="geometry" />
+          <mxGeometry x="1780" y="297.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-a3hFuoiGzfyZYCyFnAP-24" value="更新状态为 “已拒绝”" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1200" y="100" width="230" height="50" as="geometry" />
