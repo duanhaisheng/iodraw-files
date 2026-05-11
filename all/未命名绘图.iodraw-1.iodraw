@@ -85,7 +85,7 @@
         <mxCell id="ojqDiEbI7iMWevdzwH-T-47" value="服务端（本地）" style="html=1;arcSize=10;whiteSpace=wrap;points=[];fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="269" y="10" width="144.37" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-48" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 1;strokeWidth=2;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-48" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 4;strokeWidth=2;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="590" as="sourcePoint" />
             <mxPoint x="200" y="90" as="targetPoint" />
@@ -93,8 +93,8 @@
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-49" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="207.5" y="560" as="sourcePoint" />
-            <mxPoint x="207.5" y="80" as="targetPoint" />
+            <mxPoint x="200" y="570" as="sourcePoint" />
+            <mxPoint x="200" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
