@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;labelBackgroundColor=default;fillColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-6" value="" style="rounded=1;html=1;arcSize=10;labelBackgroundColor=default;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-7" value="核心业务模块" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
@@ -17,7 +17,7 @@
           <mxGeometry x="30" y="70" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-11" value="借阅管理" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="45.75" y="130" width="86.6029411764706" height="50" as="geometry" />
+          <mxGeometry x="30" y="130" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-21" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341.25" y="190" width="27.5" height="50" as="geometry" />
