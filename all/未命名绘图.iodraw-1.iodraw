@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="270" y="250" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-7" value="核心业务模块" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-23" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341.25" y="450" width="27.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-24" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361.25" y="210" width="27.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-25" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371.25" y="220" width="27.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
