@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ojqDiEbI7iMWevdzwH-T-6" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="170" height="160" as="geometry" />
+          <mxGeometry x="220" y="110" width="240" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="ojqDiEbI7iMWevdzwH-T-7" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry width="85" height="160" as="geometry" />
+        <mxCell id="ojqDiEbI7iMWevdzwH-T-7" value="核心业务模块" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
+          <mxGeometry width="120.00000000000001" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ojqDiEbI7iMWevdzwH-T-8" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="ojqDiEbI7iMWevdzwH-T-6">
-          <mxGeometry x="85" y="8" width="76.5" height="144" as="geometry" />
+          <mxGeometry x="120.00000000000001" y="11.5" width="108" height="207" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
