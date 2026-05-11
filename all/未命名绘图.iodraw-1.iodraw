@@ -55,10 +55,10 @@
           <mxGeometry x="831" y="687" width="258" height="143" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-3" value="输入是否为空？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="995" width="160" height="160" as="geometry" />
+          <mxGeometry x="160" y="995" width="160" height="85" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-4" value="提示 “请填写完整信息”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="1300" width="226" height="48" as="geometry" />
+          <mxGeometry x="140" y="1210" width="226" height="48" as="geometry" />
         </mxCell>
         <mxCell id="54gWCxaw4apOYOERPg1i-5" value="两次密码是否一致？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="461" y="1228" width="192" height="192" as="geometry" />
