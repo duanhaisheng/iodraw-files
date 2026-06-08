@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="80" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-37" value="类型管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="30" height="230" as="geometry" />
+          <mxGeometry x="160" y="150" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-38" value="图书信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="150" width="30" height="230" as="geometry" />
@@ -28,10 +28,10 @@
         <mxCell id="kbl0tLwy_6VolgGVfgtg-43" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="30" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-44" value="登录认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="150" width="30" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-45" value="修改密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="150" width="30" height="230" as="geometry" />
         </mxCell>
       </root>
