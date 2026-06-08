@@ -13,7 +13,7 @@
         <mxCell id="kbl0tLwy_6VolgGVfgtg-38" value="图书信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="150" width="30" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-39" value="读者管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="30" height="230" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
