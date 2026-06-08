@@ -77,16 +77,16 @@
           <mxGeometry x="913" y="46" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-25" value="【前端展示层】" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="193" width="1060" height="123" as="geometry" />
+          <mxGeometry x="85" y="193" width="1065" height="123" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-26" value="LayUI (前端框架)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-25">
-          <mxGeometry x="73.1621187800963" y="46" width="306.26003210272876" height="48" as="geometry" />
+          <mxGeometry x="73.50722311396468" y="46" width="307.7046548956662" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-27" value="HTML/CSS/JS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-25">
-          <mxGeometry x="464.4943820224719" y="46" width="267.1268057784912" height="48" as="geometry" />
+          <mxGeometry x="466.685393258427" y="46" width="268.38683788121995" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-28" value="JSP页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-25">
-          <mxGeometry x="814.991974317817" y="46" width="197.36757624398072" height="48" as="geometry" />
+          <mxGeometry x="818.8362760834672" y="46" width="198.29855537720707" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-29" value="【客户端层】" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="85" y="20" width="1065" height="123" as="geometry" />
