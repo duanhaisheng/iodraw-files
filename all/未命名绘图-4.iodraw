@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kbl0tLwy_6VolgGVfgtg-1" value="【数据存储层】" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="376" y="887" width="774" height="123" as="geometry" />
+          <mxGeometry x="85" y="887" width="1065" height="123" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-2" value="MySQL 8.0 (utf8mb4)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-1">
-          <mxGeometry x="69.1933471933472" y="46" width="337.92099792099793" height="48" as="geometry" />
+          <mxGeometry x="95.20790020790021" y="46" width="464.96881496881497" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-3" value="Druid 连接池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-1">
-          <mxGeometry x="487.57172557172555" y="46" width="242.98128898128897" height="48" as="geometry" />
+          <mxGeometry x="670.8835758835758" y="46" width="334.3347193347193" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-4" value="【数据访问层 - MyBatis】" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="85" y="710" width="1065" height="123" as="geometry" />
