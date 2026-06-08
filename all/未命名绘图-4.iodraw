@@ -14,25 +14,25 @@
           <mxGeometry x="303" y="46" width="151" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-4" value="【数据访问层 - MyBatis】" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="714" width="1060" height="123" as="geometry" />
+          <mxGeometry x="85" y="710" width="1065" height="123" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-5" value="类型Mapper" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-4">
-          <mxGeometry x="38.20620284995809" y="46" width="129.72338642078793" height="48" as="geometry" />
+          <mxGeometry x="38.386420787929595" y="46" width="130.33528918692375" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-6" value="图书Mapper" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-4">
-          <mxGeometry x="212.35540653813916" y="46" width="129.72338642078793" height="48" as="geometry" />
+          <mxGeometry x="213.35708298407383" y="46" width="130.33528918692375" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-7" value="读者Mapper" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-4">
-          <mxGeometry x="385.61609388097236" y="46" width="129.72338642078793" height="48" as="geometry" />
+          <mxGeometry x="387.4350377200336" y="46" width="130.33528918692375" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-8" value="借阅Mapper" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-4">
-          <mxGeometry x="559.7652975691534" y="46" width="129.72338642078793" height="48" as="geometry" />
+          <mxGeometry x="562.4056999161778" y="46" width="130.33528918692375" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-9" value="公告Mapper" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-4">
-          <mxGeometry x="733.0259849119866" y="46" width="129.72338642078793" height="48" as="geometry" />
+          <mxGeometry x="736.4836546521376" y="46" width="130.33528918692375" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-10" value="统计Mapper" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-4">
-          <mxGeometry x="907.1751886001678" y="46" width="129.72338642078793" height="48" as="geometry" />
+          <mxGeometry x="911.4543168482819" y="46" width="130.33528918692375" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-11" value="【业务层 - Spring】" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="85" y="540" width="1064" height="123" as="geometry" />
