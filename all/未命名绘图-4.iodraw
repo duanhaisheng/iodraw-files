@@ -92,7 +92,7 @@
           <mxGeometry x="85" y="20" width="1065" height="123" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-30" value="Web浏览器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="kbl0tLwy_6VolgGVfgtg-29">
-          <mxGeometry x="219.11483253588517" y="46" width="708.3014354066985" height="48" as="geometry" />
+          <mxGeometry x="178.34483253588516" y="37.5" width="708.3014354066985" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-31" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="kbl0tLwy_6VolgGVfgtg-29" target="kbl0tLwy_6VolgGVfgtg-25">
           <mxGeometry relative="1" as="geometry">
