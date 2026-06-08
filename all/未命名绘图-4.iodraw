@@ -4,34 +4,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-36" value="图书管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-36" value="图书管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-37" value="类型管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-37" value="类型管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-38" value="图书信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-38" value="图书信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="220" y="150" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-39" value="读者管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-39" value="读者管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-40" value="借阅管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-40" value="借阅管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-41" value="公告管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-41" value="公告管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="380" y="150" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-42" value="管理员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-42" value="管理员管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="430" y="150" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-43" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-43" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="480" y="150" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-44" value="登录认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-44" value="登录认证" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="530" y="150" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kbl0tLwy_6VolgGVfgtg-45" value="修改密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-45" value="修改密码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="580" y="150" width="30" height="170" as="geometry" />
         </mxCell>
       </root>
