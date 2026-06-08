@@ -16,6 +16,12 @@
         <mxCell id="kbl0tLwy_6VolgGVfgtg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbl0tLwy_6VolgGVfgtg-36" target="kbl0tLwy_6VolgGVfgtg-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbl0tLwy_6VolgGVfgtg-36" target="kbl0tLwy_6VolgGVfgtg-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kbl0tLwy_6VolgGVfgtg-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbl0tLwy_6VolgGVfgtg-36" target="kbl0tLwy_6VolgGVfgtg-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kbl0tLwy_6VolgGVfgtg-36" value="图书管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="90" width="165" height="30" as="geometry" />
         </mxCell>
